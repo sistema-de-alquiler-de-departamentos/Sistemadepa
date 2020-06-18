@@ -1,0 +1,92 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none ;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body  {
+    background:black;
+}
+
+
+header{
+    position:relative;
+    
+    width:1473px;
+    height:100px;
+    
+}
+header #Logo {
+    position:absolute;
+    width: 200px;
+    height: 100px;
+    background:white;
+   
+}
+    header #Logo img {
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        background: white;
+    }
+    header #Nombre {
+        position: relative;
+        float: right;
+        width: 1273px;
+        height: 100px;
+        background: white;
+    }
+    header #Nombre p{
+        margin-left:430px;
+        text-align:left;
+        color:black;
+        font-size:18px;
+        font:bold:100;
+        font-family:'Goudy Old Style';
+    }
+section {
+    position: relative;
+    width: 1473px;
+    height: 500px;
+    
+}
+    section #Video {
+        position: relative;
+        margin: auto;
+        width: 1000px;
+        height: 500px;
+     
+    }
+        section #Video video {
+            width: 1000px;
+            height: 500px;
+            
+        }
+
+footer {
+    position: relative;
+    width: 1473px;
+    height: 190px;
+    background:white;
+
+}
+    footer #Seleccion {
+        position: relative;
+        margin: auto;
+        width: 1000px;
+        height: 40px;
+       
+    }
+        footer #Seleccion ul li {
+            float: left;
+            border: 1px solid white;
+            width: 250px;
+            height: 40px;
+            background: black;
+            text-align:center;
+            color:white;
+        }

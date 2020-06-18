@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <LINK REL=StyleSheet HREF="css/estilos.css" TYPE="text/css" MEDIA=screen>
+
+</head>
+<body>
+    
+    <header>
+        <div id="Logo"> <img src="images/logo.png"/> </div>
+        <div id="Nombre"><p><br /><br />EMPRESA DE ALQUILER SALQUES</p></div>
+    </header>
+
+    <section>  <div id="Video"><video src="images/hyo.mp4" controls></video></div></section>
+    <footer>
+        <div id="Seleccion"><ul>
+             <li><a class="nav-link" th:href="@{/listar}">Clientes</a></li>
+             <li><a class="nav-link" th:href="@{/Departamento}">Departamento</a></li>
+             <li><a class="nav-link" th:href="@{/listar}">Reseña</a></li>    
+             <li><a class="nav-link" th:href="@{/listar}">Reglamento</a></li>
+             </ul></div>
+    </footer>
+</body>
+</html>

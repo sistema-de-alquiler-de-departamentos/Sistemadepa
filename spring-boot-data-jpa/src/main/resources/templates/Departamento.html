@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layout/layout :: head"></head>
+<body>
+
+	<header th:replace="layout/layout :: header"></header>
+
+	<div class="container py-4">
+
+		<div class="card bg-light">
+			
+			<div class="card-body">
+
+				<h4 class="card-title">
+					Lista de Habitaciones o Departamentos
+				</h4>
+
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Numero Habitacion</th>
+							<th>Tipo Habitacion</th>
+							<th>descripcion</th>
+							<th>Precio</th>
+							<th>Estado</th>
+							<th> </th>
+						</tr>
+						<tr>
+							<td>01</td>
+							<td>Familiar</td>
+							<td>El departamento es muy comodo</td>
+							<td>300</td>
+							<td><a class="btn btn-success btn-sm" href="/factura/form">Disponible</a></td>
+							<td><a class="nav-link" th:href="@{/Descripcionhab}">Ver Más</a></td>
+						</tr>
+						<tr>
+							<td>02</td>
+							<td>Familiar</td>
+							<td>El departamento es muy comodo</td>
+							<td>300</td>
+							<td><a class="btn btn-danger btn-sm" href="/eliminar/2" onclick="return confirm('Est�s seguro que quieres eliminar?');">Alquilado</a></td>
+							<td><a class="nav-link" th:href="@{/listar}">Ver Más</a></td>
+						</tr>
+					</thead>
+					
+				</table>
+				
+			</div>
+		</div>
+
+	</div>
+
+	<footer th:replace="layout/layout :: footer"></footer>
+</body>
+</html>

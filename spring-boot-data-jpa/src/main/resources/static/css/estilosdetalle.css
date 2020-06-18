@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+}
+header {
+    position: relative;
+    width: 1473px;
+    height: 100px;
+}
+
+    header #Logo {
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        background: white;
+    }
+
+        header #Logo img {
+            position: absolute;
+            width: 200px;
+            height: 100px;
+            background: white;
+        }
+
+    header #Nombre {
+        position: relative;
+        float: right;
+        width: 1273px;
+        height: 100px;
+        background: white;
+    }
+
+        header #Nombre p {
+            margin-left: 430px;
+            text-align: left;
+            color: black;
+            font-size: 18px;
+            font: bold;
+        }
+
+
+
+section {
+    position: absolute;
+    width: 1473px;
+    height:600px;
+    background:green;
+}
+    section #Diseño{
+        position:absolute;
+        width:473px;
+        height:600px;
+        background:black;
+        }
+    section #Casa {
+        position: relative;
+        width: 473px;
+        height: 300px;
+        background: red;
+    }
+        section #Casa img {
+            position: relative;
+            width: 400px;
+            height: 300px;
+        }
+
+    section #Interior {
+        position: relative;
+        width: 1000px;
+        height: 300px;
+        background: black;
+    }
+    section #Interior h1{
+        color:white;
+        text-align:center;
+        top:3px;
+        font-weight:bold;
+    }
+        section #Interior p {
+            position: absolute;
+            top: 105px;
+            color: white;
+            text-align: center;
+        }
+        section #Detalle h1 {
+            color: white;
+            text-align: center;
+            top: 3px;
+            font-weight: bold;
+        }
+
+        section #Detalle p {
+            position: absolute;
+            top: 105px;
+            color: white;
+            text-align:center;
+        }
+    section #Descripcion {
+        position: relative;
+        float:right;
+        width: 800px;
+        height: 400px;
+     
+    }
+    section #Descripcion #Detalle {
+        position: relative;
+        width: 1000px;
+        height: 300px;
+        background: red;
+    }
+    section #Descripcion #Baño{
+        position: relative;
+        float:right;
+        width: 473px;
+        height: 300px;
+        background: blue;
+    }
+    section #Baño img {
+        position: relative;
+        width: 400px;
+        height: 250px;
+    }
+    footer{
+        position:relative;
+        margin:auto;
+        top:599px;
+        width:200px;
+        height:50px;
+        background:black;
+    }
+    footer p{
+        color:white;
+        text-align:center;
+        line-height:41x;
+    }
