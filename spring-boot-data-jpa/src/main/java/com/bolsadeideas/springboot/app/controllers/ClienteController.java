@@ -176,11 +176,11 @@ public class ClienteController {
 	
 		return "Departamento";
 	}
-	@RequestMapping(value = "/Home", method = RequestMethod.GET)
-	public String home() {
+	@RequestMapping(value = "/index", method = RequestMethod.GET)
+	public String Home() {
 
 	
-		return "Home";
+		return "index";
 	}
 	@RequestMapping(value = "/FormDepartamento", method = RequestMethod.GET)
 	public String formdepartamento() {
@@ -193,5 +193,17 @@ public class ClienteController {
 
 	
 		return "Descripcionhab";
+	}
+	@RequestMapping(value = "/departamento", method = RequestMethod.GET)
+	public String Departamento() {
+
+	
+		return "departamento";
+	}
+	@RequestMapping(value = "/casas", method = RequestMethod.GET)
+	public String Casas() {
+
+	
+		return "casas";
 	}
 }
