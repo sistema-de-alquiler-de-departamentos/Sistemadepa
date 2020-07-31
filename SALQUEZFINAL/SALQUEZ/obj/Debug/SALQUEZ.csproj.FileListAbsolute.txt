@@ -1,0 +1,201 @@
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\SALQUEZ.dll.config
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\SALQUEZ.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\SALQUEZ.pdb
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csc.exe
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csc.exe.config
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csc.rsp
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csi.exe
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csi.exe.config
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\csi.rsp
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.AppContext.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Collections.Immutable.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Console.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.IO.Compression.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.IO.FileSystem.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.IO.Pipes.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Reflection.Metadata.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.AccessControl.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Claims.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.ValueTuple.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Xml.XPath.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\vbc.exe
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\vbc.exe.config
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\vbc.rsp
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\VBCSCompiler.exe
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\roslyn\VBCSCompiler.exe.config
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\Newtonsoft.Json.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Net.Http.Formatting.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Web.Http.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Web.Http.WebHost.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\Newtonsoft.Json.xml
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Net.Http.Formatting.xml
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Web.Http.xml
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\System.Web.Http.WebHost.xml
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\es\System.Net.Http.Formatting.resources.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\es\System.Web.Http.resources.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\bin\es\System.Web.Http.WebHost.resources.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\obj\Debug\SALQUEZ.csprojAssemblyReference.cache
+E:\SISTEMA DE DEPAS\SALQUEZ\obj\Debug\SALQUEZ.csproj.CoreCompileInputs.cache
+E:\SISTEMA DE DEPAS\SALQUEZ\obj\Debug\SALQUEZ.csproj.CopyComplete
+E:\SISTEMA DE DEPAS\SALQUEZ\obj\Debug\SALQUEZ.dll
+E:\SISTEMA DE DEPAS\SALQUEZ\obj\Debug\SALQUEZ.pdb
+C:\Users\Viggo\Desktop\SALQUEZ\bin\SALQUEZ.dll.config
+C:\Users\Viggo\Desktop\SALQUEZ\bin\SALQUEZ.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\SALQUEZ.pdb
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csc.exe
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csc.exe.config
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csc.rsp
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csi.exe
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csi.exe.config
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\csi.rsp
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.AppContext.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Console.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Claims.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\vbc.exe
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\vbc.exe.config
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\vbc.rsp
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viggo\Desktop\SALQUEZ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viggo\Desktop\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\Newtonsoft.Json.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Net.Http.Formatting.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Web.Http.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Web.Http.WebHost.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\Newtonsoft.Json.xml
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Net.Http.Formatting.xml
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Web.Http.xml
+C:\Users\Viggo\Desktop\SALQUEZ\bin\System.Web.Http.WebHost.xml
+C:\Users\Viggo\Desktop\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viggo\Desktop\SALQUEZ\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\es\System.Web.Http.resources.dll
+C:\Users\Viggo\Desktop\SALQUEZ\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Viggo\Desktop\SALQUEZ\obj\Debug\SALQUEZ.csprojAssemblyReference.cache
+C:\Users\Viggo\Desktop\SALQUEZ\obj\Debug\SALQUEZ.csproj.CoreCompileInputs.cache
+C:\Users\Viggo\Desktop\SALQUEZ\obj\Debug\SALQUEZ.csproj.CopyComplete
+C:\Users\Viggo\Desktop\SALQUEZ\obj\Debug\SALQUEZ.dll
+C:\Users\Viggo\Desktop\SALQUEZ\obj\Debug\SALQUEZ.pdb
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\SALQUEZ.dll.config
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\SALQUEZ.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\SALQUEZ.pdb
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csc.exe
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csc.exe.config
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csc.rsp
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csi.exe
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csi.exe.config
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\csi.rsp
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.AppContext.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Collections.Immutable.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Console.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.IO.Compression.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.IO.FileSystem.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.IO.Pipes.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Reflection.Metadata.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.AccessControl.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Claims.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.ValueTuple.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Xml.XPath.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\vbc.exe
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\vbc.exe.config
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\vbc.rsp
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\VBCSCompiler.exe
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\roslyn\VBCSCompiler.exe.config
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\Newtonsoft.Json.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Net.Http.Formatting.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Web.Http.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Web.Http.WebHost.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\Newtonsoft.Json.xml
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Net.Http.Formatting.xml
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Web.Http.xml
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\System.Web.Http.WebHost.xml
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\es\System.Net.Http.Formatting.resources.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\es\System.Web.Http.resources.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\bin\es\System.Web.Http.WebHost.resources.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\obj\Debug\SALQUEZ.csprojAssemblyReference.cache
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\obj\Debug\SALQUEZ.csproj.CoreCompileInputs.cache
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\obj\Debug\SALQUEZ.csproj.CopyComplete
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\obj\Debug\SALQUEZ.dll
+E:\SISTEMA DEPA FINAL\SALQUEEEZ\SALQUEZ\obj\Debug\SALQUEZ.pdb
